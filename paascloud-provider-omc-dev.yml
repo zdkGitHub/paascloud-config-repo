@@ -72,4 +72,4 @@ paascloud:
       url: http://api.paascloud.net/omc/pay/alipayCallback
     qrCode:
       pcPath: E:/File/alipay/QRCode
-qiniuPath: alipay/QRCode/
+      qiniuPath: alipay/QRCode/
