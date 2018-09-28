@@ -128,4 +128,4 @@ paascloud:
         clientId: paascloud-client-tpc
         clientSecret: paascloudClientSecret
         accessTokenValidateSeconds: 7200
-scope: "*"
+        scope: "*"
